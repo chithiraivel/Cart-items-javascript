@@ -1,0 +1,42 @@
+table tr td {
+    border: 1px solid black;
+    text-align: center;
+    width: 170px;
+    padding: 10px 10px;
+}
+.select1{
+    width: 80px;
+    height: 20px;
+}
+
+#btn1{
+    margin-top: 20px;
+}
+.pro{
+    margin-top: 5px;
+}
+#btn1{
+
+    width: 60px;
+    border-radius: 10px;
+    
+}
+.top{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.right{
+    border: 1px solid black;
+    height:auto;
+    width: 300px;
+}
+.left{
+
+    /* border: 1px solid black; */
+    height: auto;
+    width: 800px;
+    
+    display: flex;
+    justify-content: space-between;
+}
